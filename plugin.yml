@@ -1,0 +1,10 @@
+name: MAuth2
+main: com.tallduck.mAuth2.MAuth2
+version: 0.0.1
+commands:
+    hello:
+        description: Say hello.
+        usage: /hello
+    login:
+        description: Login to the server.
+        usage: /login
